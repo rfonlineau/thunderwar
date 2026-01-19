@@ -26,7 +26,7 @@ DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf f4a4cfeb2696cd8a3885bcddb58a6c2b53de83c3
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf e63f11a6ee4bef14b7cf9fafdced1d127c4fdc4e
+DataTable\en-gb\NDItem.edf c18f07acb4ab85ab1496c04b92db5391db798056
 DataTable\en-gb\NDItemCash.edf 6e6f1789843aba4a1ca9a4c0ce9a92645c631bfe
 DataTable\en-gb\NDLanguage.edf a2d1baed4be718a57c50bf274ea027cedd5d9646
 DataTable\en-gb\NDMap.edf 1cb547f5cffd55d0c935215095d9dcec1dddf375
@@ -34,11 +34,11 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf 5059f40a9e5bc593623825cc428d8f8fec736886
 DataTable\en-gb\NDSkillForce.edf d2ab84c9668b2f7d62dcd8183b2a8621c6c56ece
-DataTable\en-gb\NDStore.edf 04c1a0a0904d7adfe73199e5e6dca37b3f429e85
+DataTable\en-gb\NDStore.edf bef0278f2c704ce81010260d267086fae9b5820e
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini be37e8799d370881dc635236678f263ef5a63898
-DataTable\Item.edf 5af04434afe8c67812041317fd48f278108b6c55
+DataTable\Item.edf 70a050eb68a530744ac97d370f474528151d7305
 DataTable\ItemCash.edf 8e4ce4e5301701ceef2c6479fa31bfa24af5c57b
 DataTable\ItemCombine.edf 432376d3527dbcf164d647750cd8f4afb34d7175
 DataTable\ItemPremium.edf f3b964c48de7b8da9d2c371d3e9d78bf501de3fe
@@ -50,7 +50,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf da8fa3b59b2a6ed72901767d7dbb9b6c01c9829f
 DataTable\Resource.edf ddbc11e7f412cca52b346126c29905aad222d649
 DataTable\SkillForce.edf e670b715ea89b0f334ed6effa9f7b536a04e9d58
-DataTable\Store.edf b47d5efcf07807eb995efbb7b39181d7b71c387d
+DataTable\Store.edf d5c8fe46720ace9e9009cb78447e310082fb5715
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 Map\Platform01\Platform01.ebp 4ba329af8bb29a59dbcc48a6259d42c795a60d9a
@@ -67,8 +67,9 @@ Snd\Bgm\RF_EP1_New.wmv 4e22436534f7ddda6023610945ad3fb84b08d5f2
 Snd\Bgm\RF_EP2_New.wmv 688934845f22049cb14668832efa33d45013b6b9
 Snd\BGMList.spt 34312839ef73609599658dea88b18072d5b248c6
 Snd\waveList.spt a1e373dd4c3e8034a2cf84bf617e6f281f86a67d
+SpriteImage\ads\1.png 8421502e1fbda308c6428d5be58f2c0cc26b3be3
 SpriteImage\ads\available.png 493b7f88e70475698388e11a3fe9444c1f60a478
-SpriteImage\ads\init.ini 7552c71ffb45973cd92a65043e5f8f6374a11a1c
+SpriteImage\ads\init.ini ea7eeb167195e47bccb4a1ca1f55fc193036a9b6
 SpriteImage\common\battlepass.spr 8503093e1fb87a93f0acc40c8a427878c3586575
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr e3130afa16830f08b67b3e6d43a5263ddf478605
